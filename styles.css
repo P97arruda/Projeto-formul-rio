@@ -31,6 +31,9 @@ h5{
     width: 400px;
 
  }
+ textarea{
+    padding: 10px 5px;
+ }
 
  /* page header*/
 
@@ -52,3 +55,4 @@ h5{
     position: relative;
     top: -62px;
  }
+
