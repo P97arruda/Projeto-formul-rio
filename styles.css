@@ -22,4 +22,12 @@ h5{
     border: none;
     border-bottom: 1px solid #ccc;
     padding: 10px 0;
+   
+ }
+ input[type="text"],
+ input[type="number"],
+ input[type="date"],
+ input[type="file"]{
+    width: 400px;
+
  }
